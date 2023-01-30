@@ -32,6 +32,7 @@ return require("packer").startup(function()
     use("ful1e5/onedark.nvim")
     use("rmehri01/onenord.nvim")
     use("xiyaowong/nvim-transparent")
+    use("NLKNguyen/papercolor-theme")
     -- 首页
     use("goolord/alpha-nvim")
     -- 对齐线
